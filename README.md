@@ -5,6 +5,7 @@
 ### Github status :fire:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=netoht&show_icons=true&title_color=000)
+
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=netoht&langs_count=8)
 
 ### Say hello 👋
