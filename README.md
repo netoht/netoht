@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/netoht/"><img src="https://img.shields.io/badge/linkedin-000.svg?&logo=linkedin" height=20></a> 
 <a href="https://www.instagram.com/netoht/"><img src="https://img.shields.io/badge/instagram-000.svg?&logo=instagram" height=20></a>
-<a href="https://www.twitter.com/netoht/"><img src="https://img.shields.io/badge/twitter-000.svg?&logo=twitter" height=20></a>
+<a href="https://www.twitter.com/woneto/"><img src="https://img.shields.io/badge/twitter-000.svg?&logo=twitter" height=20></a>
 <a href="https://www.github.com/netoht/"><img src="https://img.shields.io/badge/github-000.svg?&logo=github" height=20></a>
 <a href="mailto:netoht@gmail.com"><img src="https://img.shields.io/badge/gmail-000.svg?&logo=gmail" height=20></a>
 
