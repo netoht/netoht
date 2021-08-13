@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--  I’m currently working on Latam Experian DataLab
+-  I’m currently working on Loft
 
 ### Github status :fire:
 
