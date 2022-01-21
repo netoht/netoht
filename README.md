@@ -15,6 +15,8 @@
 <a href="https://www.twitter.com/wneto/"><img src="https://img.shields.io/badge/twitter-000.svg?&logo=twitter" height=20></a>
 <a href="https://www.github.com/netoht/"><img src="https://img.shields.io/badge/github-000.svg?&logo=github" height=20></a>
 <a href="mailto:netoht@gmail.com"><img src="https://img.shields.io/badge/gmail-000.svg?&logo=gmail" height=20></a>
+<a href="https://dev.to/netoht"><img src="https://img.shields.io/badge/dev-to-black" height=20></a>
+<a href="https://medium.com/@netoht"><img src="https://img.shields.io/badge/medium-gray" height=20></a>
 
 
 <!--
